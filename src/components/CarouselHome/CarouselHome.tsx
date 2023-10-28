@@ -6,7 +6,7 @@ const CarouselHome = () => {
             <Carousel.Item>
                 <img
                     className="d-block w-100"
-                    src="/public/Ropa2.jpg"
+                    src="https://d1ih8jugeo2m5m.cloudfront.net/2021/11/como-tomar-fotos-para-vender-ropa-2.jpg"
                     alt="First slide"
                 />
                 <Carousel.Caption>
@@ -17,7 +17,7 @@ const CarouselHome = () => {
             <Carousel.Item>
                 <img
                     className="d-block w-100"
-                    src="/public/Ropa6.jpg"
+                    src="https://www.oberlo.com/media/1603891972-shutterstock466589549-880x450.jpg?fit=max&fm=jpg&w=1824"
                     alt="Second slide"
                 />
                 <Carousel.Caption>
@@ -28,7 +28,7 @@ const CarouselHome = () => {
             <Carousel.Item>
                 <img
                     className="d-block w-100"
-                    src="/public/Ropa5.jpg"
+                    src="https://www.arenaperu.com/arquivos/Mujer-Ropa-Deportiva.jpg?v=637907378955330000"
                     alt="Third slide"
                 />
                 <Carousel.Caption>
